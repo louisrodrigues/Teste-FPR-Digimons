@@ -4,11 +4,15 @@ Este projeto é uma aplicação desenvolvida com Create React App que apresenta 
 
 ✨ Funcionalidades
 
-Listagem de Digimons
+Listagem de todos os Digimons disponíveis na API
 
-Exibição de detalhes de cada Digimon
+Exibição de detalhes individuais de cada Digimon
 
 Busca por nome
+
+Filtragem por nível de evolução
+
+Interface responsiva e intuitiva
 
 Interface responsiva e intuitiva
 
@@ -23,6 +27,8 @@ JavaScript
 CSS
 
 API de Digimons
+
+Axios para requisições HTTP
 
 ⚡ Instalação e Uso
 
